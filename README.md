@@ -1,3 +1,17 @@
+<p align="center">
+  <img alt="Metabigor" src="https://user-images.githubusercontent.com/23289085/143042137-28f8e7e5-e485-4dc8-a09b-10759a593210.png" height="140" />
+  <br />
+  <strong>Metabigor - An Intelligence Tool but without API key</strong>
+
+  <p align="center">
+  <a href="https://docs.osmedeus.org/donation/"><img src="https://img.shields.io/badge/Sponsors-0078D4?style=for-the-badge&logo=GitHub-Sponsors&logoColor=39ff14&labelColor=black&color=black"></a>
+  <a href="https://twitter.com/OsmedeusEngine"><img src="https://img.shields.io/badge/%40OsmedeusEngine-0078D4?style=for-the-badge&logo=Twitter&logoColor=39ff14&labelColor=black&color=black"></a>
+  <a href="https://github.com/j3ssie/osmedeus/releases"><img src="https://img.shields.io/github/release/j3ssie/metabigor?style=for-the-badge&labelColor=black&color=2fc414&logo=Github"></a>
+  </p>
+</p>
+
+***
+
 # What is Metabigor?
 
 Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key.
@@ -146,3 +160,12 @@ by [freepik](https://www.flaticon.com/authors/freepik)
 This tool is for educational purposes only. You are responsible for your own actions. If you mess something up or break
 any laws while using this software, it's your fault, and your fault only.
 
+# License
+
+`Metabigor` is made with ♥ by [@j3ssiejjj](https://twitter.com/j3ssiejjj) and it is released under the MIT license.
+
+# Donation
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/j3ssiejjj)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/j3ssie)
