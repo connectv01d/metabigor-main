@@ -25,7 +25,7 @@ You can download pre-built binaries for your platform from the [**releases page*
 ### Building from Source
 
 ```shell
-go install github.com/j3ssie/metabigor@2.0.0
+go install github.com/connectv01d/metabigor-main
 ```
 
 
@@ -162,10 +162,4 @@ any laws while using this software, it's your fault, and your fault only.
 
 # License
 
-`Metabigor` is made with ♥ by [@j3ssiejjj](https://twitter.com/j3ssiejjj) and it is released under the MIT license.
 
-# Donation
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/j3ssiejjj)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/j3ssie)
